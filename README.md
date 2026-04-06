@@ -1,3 +1,4 @@
+// PoC: modified by Safe GH Impact Demo @ 2026-04-06T23:55:11.026Z
  We will from now on publish **[PLUGINS](https://gitlab.com/shabinder/soundbound#-disclaimer)** for **[Soundbound](https://soundbound.app)**, which users can install **explicitly** on their own responsibility [(*disclaimer*)](https://gitlab.com/shabinder/soundbound#-disclaimer).
 
  - [Soundbound Installation Guide.](https://soundbound.app/install)
